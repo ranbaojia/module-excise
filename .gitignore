@@ -1,3 +1,5 @@
 # 忽略列表
-node_modules/
-dist/
+node_modules
+dist
+images2
+.vscode
