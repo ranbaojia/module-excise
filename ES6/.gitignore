@@ -1,0 +1,4 @@
+# 忽略列表
+node_modules/
+dist/
+images2/
